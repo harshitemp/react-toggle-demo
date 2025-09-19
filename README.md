@@ -3,6 +3,14 @@
 ## Aim
 Implement conditional rendering in React to show or hide a child component using a toggle button.
 
+## Screenshots
+
+Here’s a preview of the app:
+
+![App Screenshot](public/ss1.png)
+![App Screenshot](public/ss2.png)
+
+
 ## Prerequisites
 - Node.js (LTS)
 - npm
